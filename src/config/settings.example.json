@@ -1,0 +1,9 @@
+{
+  "delay_ms": 500,
+  "use_proxies": false,
+  "max_reviews": 100,
+  "filters": {
+    "rating_min": 1,
+    "language": "en"
+  }
+}
